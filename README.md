@@ -18,7 +18,7 @@ This project implements a House Price Prediction System using the Linear Regress
 
 ## Technologies Used
 - Python
-- Visual Studio Code
+- Visual Studio Code (VS Code)
 - Pandas
 - NumPy
 - Matplotlib
